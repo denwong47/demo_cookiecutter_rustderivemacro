@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"demo_cookiecutter_rustderivemacro_types":[["impl Freeze for <a class=\"enum\" href=\"demo_cookiecutter_rustderivemacro_types/errors/enum.DemoDeriveError.html\" title=\"enum demo_cookiecutter_rustderivemacro_types::errors::DemoDeriveError\">DemoDeriveError</a>",1,["demo_cookiecutter_rustderivemacro_types::errors::DemoDeriveError"]]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"derive":[["DemoDerive","A simple derive macro to demonstrate the output of cookiecutter-rustderivemacro."]],"mod":[["errors",""],["prelude",""]],"trait":[["DemoDerive","Sampl Trait to be implemented."]]};

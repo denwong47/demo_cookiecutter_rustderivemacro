@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"demo_cookiecutter_rustderivemacro_types":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.67.0/core/marker/trait.Unpin.html\" title=\"trait core::marker::Unpin\">Unpin</a> for <a class=\"enum\" href=\"demo_cookiecutter_rustderivemacro_types/errors/enum.DemoDeriveError.html\" title=\"enum demo_cookiecutter_rustderivemacro_types::errors::DemoDeriveError\">DemoDeriveError</a>",1,["demo_cookiecutter_rustderivemacro_types::errors::DemoDeriveError"]]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

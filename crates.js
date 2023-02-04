@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["demo_cookiecutter_rustderivemacro","demo_cookiecutter_rustderivemacro_macros","demo_cookiecutter_rustderivemacro_types"];
