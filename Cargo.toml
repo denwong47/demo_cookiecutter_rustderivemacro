@@ -1,0 +1,20 @@
+[package]
+name = "demo_cookiecutter_rustderivemacro"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name = "demo_cookiecutter_rustderivemacro"
+path = "src/main.rs"
+
+[lib]
+name = "demo_cookiecutter_rustderivemacro"
+
+[dependencies]
+demo_cookiecutter_rustderivemacro_types = { version = "0", path = "demo_cookiecutter_rustderivemacro_types", default-features = true, optional = false }
+demo_cookiecutter_rustderivemacro_macros = { version = "0", path = "demo_cookiecutter_rustderivemacro_macros", default-features = true, optional = false }
+
+[workspace]
+members = [ "demo_cookiecutter_rustderivemacro_macros", "demo_cookiecutter_rustderivemacro_types" ]
